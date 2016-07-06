@@ -1,0 +1,52 @@
+body, html { font-size: 100%; 	padding: 0; margin: 0;}
+
+
+body{
+	background: #f9f7f6;
+	color: #404d5b;
+	font-weight: 400;
+	font-size: 1em;
+	font-family: "Segoe UI", "Lucida Grande", Helvetica, Arial, "Microsoft YaHei", FreeSans, Arimo, "Droid Sans", "wenquanyi micro hei", "Hiragino Sans GB", "Hiragino Sans GB W3", "FontAwesome", sans-serif;
+}
+
+.welcometext{
+	text-align: center;
+	font-size: 3em;
+	padding: 20%;
+	display: none;
+}
+
+.thisisAlpha-Ya{
+	text-align: center;
+	font-size: 2em;
+	display: none;
+}
+
+.dd{
+	text-align: center;
+	font-size: 2em;
+	padding: 10%;
+}
+
+.doyouwant{
+	text-align: center;
+	font-size: 2em;
+	padding: 10%;
+
+}
+
+.SNS{
+	text-align: center;
+	padding: 10%;
+}
+
+.ifyoulikethispage{
+	text-align: center;
+	padding: 20%;
+	font-size: 2.5em;
+}
+
+.Buy{
+	text-align: center;
+	font-size: 1.8em;
+}
